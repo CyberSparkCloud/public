@@ -1,4 +1,9 @@
-77.99.231.154 HM
-wan.home.cybertitan.co.uk
-wan.parents.cybertitan.co.uk
 wan.bongo.cybertitan.co.uk
+wan.parents.cybertitan.co.uk
+wan.home.cybertitan.co.uk
+65.21.199.7 #hz-pf-wp
+65.21.199.8 #hz-pf
+65.21.199.32 #hz-hv
+132.145.40.177 #oc-vps1
+140.238.85.183 #oc-vps2
+78.141.247.105 #vt-pf
