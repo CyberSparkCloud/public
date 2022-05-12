@@ -1,2 +1,4 @@
 77.99.231.154 HM
 wan.home.cybertitan.co.uk
+wan.parents.cybertitan.co.uk
+wan.bongo.cybertitan.co.uk
